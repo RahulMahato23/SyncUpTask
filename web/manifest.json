@@ -1,6 +1,6 @@
 {
-    "name": "devtask",
-    "short_name": "devtask",
+    "name": "feedsectionui",
+    "short_name": "feedsectionui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
